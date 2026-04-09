@@ -1,0 +1,26 @@
+/*
+MY NOTES ABOUT GIT HUB
+
+In git, a repository is a folder where changes are being tracked
+
+Main idea of JS
+1. save the data
+2. generate the html
+3. make it interactive 
+
+
+How to find the code for somethin on the page:
+
+Go to inspect, hover round the screen for the related code you are looking for. The browser will automatically highlIght it.
+
+What i need to know about generating html in js:
+
+Think of HTML content in two categories:
+Static content — things that are always on the page regardless of user action. Your navigation bar, your hero section, your footer. This should stay in your HTML file.
+Dynamic content — things that change based on data or user action. A list of products, a feed of posts, search results. This is where JavaScript generates HTML.
+So the rule is:
+
+If it's always the same → write it in HTML
+If it changes based on data or user action → generate it with JavaScript
+
+*/
